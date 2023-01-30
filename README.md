@@ -2,9 +2,11 @@
 
 <h2 align="center"> About Me <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="50"/> </h2>
 
-My passion for the IT world made me decide to change my career path. I have diversified professional training and work experience as an Accoutant, Notary and Entrepreneur, which allows me to adapt, with a better understanding of business logic and needs, as well as their approach to meeting their objectives through code.
+My passion for the IT world made me decide to change my career path. I have diversified professional work experience as an Accoutant, Notary and Entrepreneur, which allows me to adapt myself with a good understanding of business logic and needs in projects.
 
-I'm in constant need of learning and searching for new challenges. 
+I'm meticulous and I work conscientiously with the dedication that my tasks deserve, and have a keen interest in technology, web applications and user experience.
+
+As someone who is characterized by her proactive attitude, I keep in constant learning of new skills in order to successfully face the challenges ahead. 
 
 I enjoy teamwork and adding value to generate a positive impact on society. I really believe that's the real goal in life... to do our best to improve every day in every single aspect and that will reflect on everybody and everything around us. 
 
