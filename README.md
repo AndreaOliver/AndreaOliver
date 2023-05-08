@@ -38,6 +38,7 @@ Andrea Oliver.
   <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-white.svg?style=plastic&logo=docker&logoColor=blue"/>
   
   <img src="https://img.shields.io/badge/Jest-%23C21325?style=plastic&logo=Jest&logoColor=white"/>
   
