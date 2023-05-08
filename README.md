@@ -23,11 +23,11 @@ Andrea Oliver.
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white"/>
   
+  <img src="https://img.shields.io/badge/Webflow-blue.svg?style=plastic&logo=webflow-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white"/>
   
@@ -37,20 +37,26 @@ Andrea Oliver.
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white"/>
   
+  <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Jest-%23C21325?style=plastic&logo=Jest&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-white.svg?style=plastic&logo=vercel&logoColor=black"/>
   
 </p>
 
 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50">
+  My Github Stats<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50" color="white">
 </h2>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=andreaoliver&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,issues">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=andreaoliver&count_private=true&theme=tokyonight">
+  <img src = "https://github-readme-stats-andreaoliver.vercel.app/api?username=andreaoliver&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,issues">
+</p>
+
+<p align = "center">
+  <img src = "https://github-readme-stats-andreaoliver.vercel.app/api/top-langs/?username=andreaoliver&count_private=true&theme=tokyonight">
 </p>
 
 <p align = "center">
