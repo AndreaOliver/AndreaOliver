@@ -53,7 +53,7 @@ Andrea Oliver.
 </h2>
 
 <p align = "center">
-  <img src = "https://github-readme-stats-andreaoliver.vercel.app/api?username=andreaoliver&count_private=true&show_icons=true&theme=tokyonight&hide=contribs">
+  <img src = "https://github-readme-stats-andreaoliver.vercel.app/api?username=andreaoliver&count_private=true&show_icons=true&theme=tokyonight&hide=issues">
 </p>
 
 <p align = "center">
