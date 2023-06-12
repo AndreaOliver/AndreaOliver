@@ -38,12 +38,12 @@ Andrea Oliver.
   <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-white.svg?style=plastic&logo=docker&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Jest-%23C21325?style=plastic&logo=Jest&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-white.svg?style=plastic&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white"/>
   
