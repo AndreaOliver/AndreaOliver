@@ -45,6 +45,8 @@ Andrea Oliver.
   <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-white.svg?style=plastic&logo=vercel&logoColor=black"/>
   
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white"/>
+  
 </p>
 
 
