@@ -8,7 +8,7 @@ I'm meticulous and I work conscientiously with the dedication that my tasks dese
 
 As someone who is characterized by her proactive attitude, I keep in constant learning of new skills in order to successfully face the challenges ahead. 
 
-I enjoy teamwork and adding value to generate a positive impact on society. I really believe that's the real goal in life... to do our best to improve every day in every single aspect and that will reflect on everybody and everything around us. 
+I enjoy teamwork and adding value to generate a positive impact on society. I really believe that's the real goal in life... to do our best to improve every day in every aspect we can and that will reflect on everybody and everything around us. 
 
 Andrea Oliver.
 
