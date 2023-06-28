@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! I'm Andrea <img src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" width="50"/> Welcome to my profile! </h1>
+<h1 align="center"> Hi! I'm Andy <img src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" width="50"/> Welcome to my profile! </h1>
 
 <h2 align="center"> About Me <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="50"/> </h2>
 
