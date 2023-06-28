@@ -10,7 +10,7 @@ As someone who is characterized by her proactive attitude, I keep in constant le
 
 I enjoy teamwork and adding value to generate a positive impact on society. I really believe that's the real goal in life... to do our best to improve every day in every aspect we can and that will reflect on everybody and everything around us. 
 
-Andrea Oliver.
+Andy.
 
 <p align="center">
   <a href="https://github.com/AndreaOliver"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white"/></a> 
