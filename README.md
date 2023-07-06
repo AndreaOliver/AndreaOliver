@@ -1,6 +1,8 @@
-<h1 align="center"> Hi! I'm Andy <img src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" width="50"/> Welcome to my profile! </h1>
+<h1 align="center"> Hi! I'm Andy <img src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" alt="alien waving hi" width="50"/> Welcome to my profile! </h1>
 
-<h2 align="center"> About Me <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="50"/> </h2>
+
+<!--- About Me -->
+<h2 align="center"> About Me <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" alt="girl typing on computer" width="50"/> </h2>
 
 My passion for the IT world made me decide to change my career path. I have diversified professional work experience as an Accoutant, Notary and Entrepreneur, which allows me to adapt myself with a good understanding of business logic and needs in projects.
 
@@ -12,12 +14,16 @@ I enjoy teamwork and adding value to generate a positive impact on society. I re
 
 Andy.
 
-<p align="center">
+
+<!--- Social Media Links -->
+<div align="center">
   <a href="https://github.com/AndreaOliver"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white"/></a> 
   <a href="https://www.linkedin.com/in/andrea--oliver"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
-</p>
+</div>
 
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="50"/></h2>
+
+<!--- Technology Stack -->
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="girl typing on computer" width="50"/></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
@@ -50,8 +56,9 @@ Andy.
 </p>
 
 
+<!--- GitHub Stats -->
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50" color="white">
+  My Github Stats<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="GitHub logo" width="50" color="white">
 </h2>
 
 <p align = "center">
