@@ -17,8 +17,8 @@ Andy.
 
 <!--- Social Media Links -->
 <div align="center">
-  <a href="https://github.com/AndreaOliver"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub link" height="30"/></a> 
-  <a href="https://www.linkedin.com/in/andrea--oliver"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn link" height="30"/></a>
+  <a href="https://github.com/AndreaOliver"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub link" height="20"/></a> 
+  <a href="https://www.linkedin.com/in/andrea--oliver"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn link" height="20"/></a>
 </div>
 
 
