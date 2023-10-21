@@ -4,11 +4,11 @@
 <!--- About Me -->
 <h2 align="center"> About Me <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" alt="girl typing on computer" width="50"/> </h2>
 
-My passion for the IT world made me decide to change my career path. I have diversified professional work experience as an Accountant, Notary and Entrepreneur, which allows me to adapt myself with a good understanding of business logic and needs in projects.
+As I immerse myself in the dynamic and fascinating world of technology in Programming and Data Analysis, my diverse professional background as an Accountant, Notary Public, and Entrepreneur brings a unique perspective to my work with a solid understanding of business principles and project needs.
 
-I'm meticulous and I work conscientiously with the dedication that my tasks deserve, and have a keen interest in technology, web applications and user experience.
+I am a meticulous professional who approaches her responsibilities with deep commitment and attention to detail. My passion for technology is reflected in my work, where I always strive to add value to our clients, either through the development of a great user experience or by providing them with valuable information to support strategic decision-making and contribute significantly to their success.
 
-As someone who is characterized by her proactive attitude, I keep in constant learning of new skills in order to successfully face the challenges ahead. 
+As a proactive individual, I am constantly seeking new skills and knowledge to tackle upcoming challenges. 
 
 I enjoy teamwork and adding value to generate a positive impact on society. I really believe that's the real goal in life... to do our best to improve every day in every aspect we can and that will reflect on everybody and everything around us. 
 
