@@ -40,7 +40,7 @@ Andy.
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white" alt="Npm badge"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="Node badge"/>
 
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React badge"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=white" alt="React badge"/>
   <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white" alt="Redux badge"/>
   
   <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white" alt="Ruby badge"/>
@@ -48,10 +48,8 @@ Andy.
   
   <img src="https://img.shields.io/badge/Jest-%23C21325?style=plastic&logo=Jest&logoColor=white" alt="Jest badge"/>
   
-  <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white" alt="Heroku badge"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="Vercel badge"/>
-  
   <img src="https://img.shields.io/badge/postgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL badge"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" alt="Power BI badge"/>
   
 </div>
 
