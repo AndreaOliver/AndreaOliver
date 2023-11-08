@@ -53,7 +53,7 @@ Andy.
 </h2>
 
 <div align="center">
-  <img src = "https://github-readme-stats-andreaoliver.vercel.app/api?username=andreaoliver&count_private=true&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub stats chart">
+  <img src = "https://github-readme-stats-andreaoliver.vercel.app/api?username=andreaoliver&count_private=true&show_icons=true&theme=tokyonight&hide=issues&include_all_commits=true" alt="GitHub stats chart">
 </div>
 
 <div align="center"  >
