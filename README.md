@@ -1,8 +1,7 @@
-<h1 align="center"> Hi! I'm Andy <img src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" alt="alien waving hi" width="50"/> Welcome to my profile! </h1>
-
+<h1 align="center"> Hi! I'm Andy, welcome! </h1> 
 
 <!--- About Me -->
-<h2 align="center"> About Me <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" alt="girl typing on computer" width="50"/> </h2>
+<h2 align="center"> About Me </h2>
 
 As an Accountant, my expertise in quantitative analysis and financial comprehension strategically positions me to delve into the business world of Data Analysis. I am actively developing technical skills in SQL, Python, and Power BI, focusing my learning on extracting valuable insights and enhancing business intelligence.
 
