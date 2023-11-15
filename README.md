@@ -3,22 +3,29 @@
 <!--- About Me -->
 <h2 align="center"> About Me </h2>
 
-As an Accountant, my expertise in quantitative analysis and financial comprehension strategically positions me to delve into the business world of Data Analysis. I am actively developing technical skills in SQL, Python, and Power BI, focusing my learning on extracting valuable insights and enhancing business intelligence.
+<p>
+    As an Accountant, my expertise in quantitative analysis and financial comprehension strategically positions me to delve into the business world of Data Analysis. I am actively developing technical skills in SQL, Python, and Power BI, focusing my learning on extracting valuable insights and enhancing business intelligence.
+  
+  In parallel, my experience as a Front End Developer enables me to design interfaces that prioritize usability and visual appeal, utilizing best practices and the latest technologies.  
+  
 
-In parallel, my experience as a Front End Developer enables me to design interfaces that prioritize usability and visual appeal, utilizing best practices and the latest technologies.
-
-I enjoy teamwork and adding value to generate a positive impact on society. I really believe that's the real goal in life... to do our best to improve every day in every aspect we can and that will reflect on everybody and everything around us.
-
-Andy.
+  I enjoy teamwork and adding value to generate a positive impact on society. I really believe that's the real goal in life... to do our best to improve every day in every aspect we can and that will reflect on everybody and everything around us.
+  
+  Andy.
+</p>
 
 <!--- Social Media Links -->
-<div align="center">
+<p align="center">
   <a href="https://github.com/AndreaOliver"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub link" height="20"/></a> 
   <a href="https://www.linkedin.com/in/andrea--oliver"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn link" height="20"/></a>
-</div>
+</p>  
 
 <!-- Certified -->
-<img src="/assets/Google Analytics Certified.png" alt="Google Analytics Certified"/>
+<p align="center">
+  <img src="/assets/Google Analytics Certified.png" alt="Google Analytics Certified" width="100"/>
+</p>
+
+____________________
 
 <!--- Technology Stack -->
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="girl typing on computer" width="50"/></h2>
@@ -39,6 +46,8 @@ Andy.
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="Node badge"/>
   <img src="https://img.shields.io/badge/Jest-%23C21325?style=plastic&logo=Jest&logoColor=white" alt="Jest badge"/>
 </div>
+
+____________________
 
 <!--- GitHub Stats -->
 <h2 align="center">
