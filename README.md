@@ -4,11 +4,9 @@
 <!--- About Me -->
 <h2 align="center"> About Me <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" alt="girl typing on computer" width="50"/> </h2>
 
-As I immerse myself in the dynamic and fascinating world of technology in Programming and Data Analysis, my diverse professional background as an Accountant, Notary Public, and Entrepreneur brings a unique perspective to my work with a solid understanding of business principles and project needs.
+As an Accountant, my expertise in quantitative analysis and financial comprehension strategically positions me to delve into the business world of Data Analysis. I am actively developing technical skills in SQL, Python, and Power BI, focusing my learning on extracting valuable insights and enhancing business intelligence.
 
-I am a meticulous professional who approaches her responsibilities with deep commitment and attention to detail. My passion for technology is reflected in my work, where I always strive to add value to our clients, either through the development of a great user experience or by providing them with valuable information to support strategic decision-making and contribute significantly to their success.
-
-As a proactive individual, I am constantly seeking new skills and knowledge to tackle upcoming challenges. 
+In parallel, my experience as a Front End Developer enables me to design interfaces that prioritize usability and visual appeal, utilizing best practices and the latest technologies.
 
 I enjoy teamwork and adding value to generate a positive impact on society. I really believe that's the real goal in life... to do our best to improve every day in every aspect we can and that will reflect on everybody and everything around us. 
 
