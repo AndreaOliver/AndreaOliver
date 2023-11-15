@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! I'm Andy, welcome! </h1> 
+<h1 align="center"> Hi! I'm Andy, welcome! </h1>
 
 <!--- About Me -->
 <h2 align="center"> About Me </h2>
@@ -7,10 +7,9 @@ As an Accountant, my expertise in quantitative analysis and financial comprehens
 
 In parallel, my experience as a Front End Developer enables me to design interfaces that prioritize usability and visual appeal, utilizing best practices and the latest technologies.
 
-I enjoy teamwork and adding value to generate a positive impact on society. I really believe that's the real goal in life... to do our best to improve every day in every aspect we can and that will reflect on everybody and everything around us. 
+I enjoy teamwork and adding value to generate a positive impact on society. I really believe that's the real goal in life... to do our best to improve every day in every aspect we can and that will reflect on everybody and everything around us.
 
 Andy.
-
 
 <!--- Social Media Links -->
 <div align="center">
@@ -18,6 +17,8 @@ Andy.
   <a href="https://www.linkedin.com/in/andrea--oliver"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn link" height="20"/></a>
 </div>
 
+<!-- Certified -->
+<img src="/assets/Google Analytics Certified.png" alt="Google Analytics Certified"/>
 
 <!--- Technology Stack -->
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="girl typing on computer" width="50"/></h2>
@@ -38,7 +39,6 @@ Andy.
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="Node badge"/>
   <img src="https://img.shields.io/badge/Jest-%23C21325?style=plastic&logo=Jest&logoColor=white" alt="Jest badge"/>
 </div>
-
 
 <!--- GitHub Stats -->
 <h2 align="center">
