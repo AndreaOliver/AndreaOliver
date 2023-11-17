@@ -32,19 +32,17 @@ ____________________
 
 <div align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" alt="Power BI badge"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server badge"/>
   <img src="https://img.shields.io/badge/postgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL badge"/>
+
+  <img src="https://img.shields.io/badge/Webflow-blue.svg?style=plastic&logo=webflow-css&logoColor=white" alt="Webflow badge"/>
   
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5 badge"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3 badge"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript badge"/>
-  <img src="https://img.shields.io/badge/Webflow-blue.svg?style=plastic&logo=webflow-css&logoColor=white" alt="Webflow badge"/>
   
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git badge"/>
   
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=white" alt="React badge"/>
-  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white" alt="Redux badge"/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="Node badge"/>
-  <img src="https://img.shields.io/badge/Jest-%23C21325?style=plastic&logo=Jest&logoColor=white" alt="Jest badge"/>
 </div>
 
 ____________________
