@@ -33,7 +33,6 @@ ____________________
 <div align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" alt="Power BI badge"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server badge"/>
-  <img src="https://img.shields.io/badge/postgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL badge"/>
 
   <img src="https://img.shields.io/badge/Webflow-blue.svg?style=plastic&logo=webflow-css&logoColor=white" alt="Webflow badge"/>
   
