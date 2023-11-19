@@ -20,9 +20,14 @@
   <a href="https://www.linkedin.com/in/andrea--oliver"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn link" height="20"/></a>
 </p>  
 
-<!-- Certified -->
+____________________
+
+<!-- Data Analysis Badges -->
+<h2 align="center"> Data Analysis Badges </h2>
+
 <p align="center">
-  <img src="/assets/Google Analytics Certified.png" alt="Google Analytics Certified" width="100"/>
+  <a href="https://certificates.mavenanalytics.io/ffa9bee6-7761-4f13-9ac1-0d4e06608fab"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87325450" alt="Thinking like an Analyst badge" height="100"/></a> 
+  <a href="https://skillshop.credential.net/1d723be1-6dff-454c-a5dd-f12e2d6d408e"><img src="/assets/Google Analytics Certified.png" alt="Google Analytics Certified badge" height="100"/></a> 
 </p>
 
 ____________________
