@@ -4,12 +4,15 @@
 <h2 align="center"> About Me <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" alt="girl typing on computer" width="50"/> </h2>
 
 <p>
-    As an Accountant, my expertise in quantitative analysis and financial comprehension strategically positions me to delve into the business world of Data Analysis. I am actively developing technical skills in SQL, Python, and Power BI, focusing my learning on extracting valuable insights and enhancing business intelligence.
-  
-  In parallel, my experience as a Front End Developer enables me to design interfaces that prioritize usability and visual appeal, utilizing best practices and the latest technologies.  
-  
+As an Accountant and Data Analyst, my experience combines a strong financial understanding with advanced technical skills.
 
-  I enjoy teamwork and adding value to generate a positive impact on society. I really believe that's the real goal in life... to do our best to improve every day in every aspect we can and that will reflect on everybody and everything around us.
+Currently, I am refining my skills in SQL and Power BI, focusing my approach on extracting valuable insights to strengthen business intelligence. In addition, I am incorporating Python into my skill set, which allows me to explore and analyze data with greater depth and efficiency.
+
+This diverse set of tools uniquely positions me to offer high-impact data analysis and support data-based strategic decisions.
+
+In parallel, my experience as a Front End Developer enables me to design interfaces that prioritize usability and visual appeal, utilizing best practices and the latest technologies.
+  
+I enjoy teamwork and adding value to generate a positive impact on society. I really believe that's the real goal in life... to do our best to improve every day in every aspect we can and that will reflect on everybody and everything around us.
   
   Andy.
 </p>
