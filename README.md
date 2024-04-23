@@ -35,6 +35,7 @@ ____________________
   <a href="https://certificates.mavenanalytics.io/8b7b46ab-1c06-4d33-b6b6-656cf6ae868c"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/88953855" alt="Power BI Desktop badge" height="100"/></a> 
   <a href="https://certificates.mavenanalytics.io/c3ecb84e-390f-44b7-ae19-130e3e97a210"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/92426614" alt="Power BI Service badge" height="100"/></a> 
   <a href="https://certificates.mavenanalytics.io/ebd338bf-5fe1-4c9c-a004-0eb61bfe5740"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/93159591" alt="MySQL Data Analysis" height="100"/></a> 
+  <a href="https://certificates.mavenanalytics.io/9b4bb542-0fdf-4955-b824-52fb3f4aa215"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102021183" alt="Advanced MySQL Data Analysis" height="100"/></a> 
   <a href="https://skillshop.credential.net/1d723be1-6dff-454c-a5dd-f12e2d6d408e"><img src="/assets/Google Analytics Certified.png" alt="Google Analytics Certified badge" height="100"/></a> 
 </p>
 
