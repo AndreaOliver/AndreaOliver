@@ -27,6 +27,7 @@ ____________________
 <h2 align="center"> Data Analysis Badges </h2>
 
 <p align="center">
+  <a href="https://credentials.databricks.com/45c545eb-a7b7-4642-9d9e-1914cf192e06"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/115112583" alt="Databricks Fundamentals badge" height="100"/></a>   
   <img src="/assets/Data Analytics - CoderHouse v2.png" alt="CoderHouse Certification" height="100"/>
   <a href="https://certificates.mavenanalytics.io/ffa9bee6-7761-4f13-9ac1-0d4e06608fab"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87325450" alt="Thinking like an Analyst badge" height="100"/></a> 
   <a href="https://certificates.mavenanalytics.io/b9a7f09f-b0bb-4f10-8524-e35c67d51d9a"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/100007377" alt="Data Literacy Foundations badge" height="100"/></a> 
@@ -43,6 +44,8 @@ ____________________
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="girl typing on computer" width="50"/></h2>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=plastic&logo=Databricks&logoColor=white" alt="Databricks badge"/>
+  
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" alt="Power BI badge"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server badge"/>
 
