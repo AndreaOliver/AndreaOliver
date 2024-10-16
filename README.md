@@ -26,17 +26,27 @@ ____________________
 <!-- Data Analysis Badges -->
 <h2 align="center"> Data Analysis Badges </h2>
 
-<p align="center">
-  <a href="https://credentials.databricks.com/45c545eb-a7b7-4642-9d9e-1914cf192e06"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/115112583" alt="Databricks Fundamentals badge" height="100"/></a>   
-  <img src="/assets/Data Analytics - CoderHouse v2.png" alt="CoderHouse Certification" height="100"/>
+<div align="center">
+  <a href="https://credentials.databricks.com/1b1444d2-2968-46d1-b25d-3d07241b9a61"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/118498110" alt="Databricks Certified Data Analyst Associate badge" height="200"/></a> 
+  <a href="https://credentials.databricks.com/45c545eb-a7b7-4642-9d9e-1914cf192e06"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/115112583" alt="Databricks Fundamentals badge" height="200"/></a>   
+</div>
+
+<div align="center">
+  <img src="/assets/Data Analytics - CoderHouse v2.png" alt="CoderHouse Certification" height="150"/>
+</div>
+
+<div align="center">
   <a href="https://certificates.mavenanalytics.io/ffa9bee6-7761-4f13-9ac1-0d4e06608fab"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87325450" alt="Thinking like an Analyst badge" height="100"/></a> 
   <a href="https://certificates.mavenanalytics.io/b9a7f09f-b0bb-4f10-8524-e35c67d51d9a"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/100007377" alt="Data Literacy Foundations badge" height="100"/></a> 
   <a href="https://certificates.mavenanalytics.io/8b7b46ab-1c06-4d33-b6b6-656cf6ae868c"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/88953855" alt="Power BI Desktop badge" height="100"/></a> 
   <a href="https://certificates.mavenanalytics.io/c3ecb84e-390f-44b7-ae19-130e3e97a210"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/92426614" alt="Power BI Service badge" height="100"/></a> 
   <a href="https://certificates.mavenanalytics.io/ebd338bf-5fe1-4c9c-a004-0eb61bfe5740"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/93159591" alt="MySQL Data Analysis" height="100"/></a> 
   <a href="https://certificates.mavenanalytics.io/9b4bb542-0fdf-4955-b824-52fb3f4aa215"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102021183" alt="Advanced MySQL Data Analysis" height="100"/></a> 
+</div>
+
+<div align="center">
   <a href="https://skillshop.credential.net/1d723be1-6dff-454c-a5dd-f12e2d6d408e"><img src="/assets/Google Analytics Certified.png" alt="Google Analytics Certified badge" height="100"/></a> 
-</p>
+</div>
 
 ____________________
 
