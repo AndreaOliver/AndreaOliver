@@ -57,7 +57,7 @@ ____________________
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=plastic&logo=Databricks&logoColor=white" alt="Databricks badge"/>
   
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" alt="Power BI badge"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server badge"/>
+  <img src="https://img.shields.io/badge/SQL-darkblue?style=plastic&logo=sql&logoColor=white" alt="SQL badge"/>
 
   <img src="https://img.shields.io/badge/Webflow-blue.svg?style=plastic&logo=webflow-css&logoColor=white" alt="Webflow badge"/>
   
