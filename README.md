@@ -4,11 +4,9 @@
 <h2 align="center"> About Me <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" alt="girl typing on computer" width="50"/> </h2>
 
 <p>
-As both an Accountant and Data Developer, my experience merges a solid financial understanding with advanced technical skills.
+As an Accountant and Analyst Engineer, I combine a strong financial background with advanced technical skills, focusing on extracting valuable insights to strengthen business intelligence and optimize internal processes.
 
-Currently, I am refining my skills in SQL and Power BI, focusing on extracting valuable insights to strengthen business intelligence. Additionally, I am incorporating Python into my skill set, which allows me to explore and analyze data with greater depth and efficiency.
-
-My previous experience as a Front End Developer complements my profile, enabling me to design interfaces that not only prioritize usability and visual appeal but are also aligned with the latest technologies and best practices. This combination of skills uniquely positions me to deliver high-impact data analysis and support strategic decisions based on solid and comprehensible data.
+In my current role, I use tools such as Snowflake, DBT, Airflow, Databricks, and Power BI to implement efficient ETL processes and create clear, actionable data visualizations. Additionally, I work with Microsoft Azure, Docker, SQL, and Python to develop scalable, data-driven solutions.
   
 I enjoy teamwork and adding value to generate a positive impact on society. I really believe that's the real goal in life... to do our best to improve every day in every aspect we can and that will reflect on everybody and everything around us.
   
@@ -24,15 +22,11 @@ I enjoy teamwork and adding value to generate a positive impact on society. I re
 ____________________
 
 <!-- Data Analysis Badges -->
-<h2 align="center"> Data Analysis Badges </h2>
+<h2 align="center"> Data Analytics Engineer Badges </h2>
 
 <div align="center">
   <a href="https://credentials.databricks.com/1b1444d2-2968-46d1-b25d-3d07241b9a61"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/118498110" alt="Databricks Certified Data Analyst Associate badge" height="200"/></a> 
   <a href="https://credentials.databricks.com/45c545eb-a7b7-4642-9d9e-1914cf192e06"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/115112583" alt="Databricks Fundamentals badge" height="200"/></a>   
-</div>
-
-<div align="center">
-  <img src="/assets/Data Analytics - CoderHouse v2.png" alt="CoderHouse Certification" height="150"/>
 </div>
 
 <div align="center">
@@ -42,10 +36,15 @@ ____________________
   <a href="https://certificates.mavenanalytics.io/c3ecb84e-390f-44b7-ae19-130e3e97a210"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/92426614" alt="Power BI Service badge" height="100"/></a> 
   <a href="https://certificates.mavenanalytics.io/ebd338bf-5fe1-4c9c-a004-0eb61bfe5740"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/93159591" alt="MySQL Data Analysis" height="100"/></a> 
   <a href="https://certificates.mavenanalytics.io/9b4bb542-0fdf-4955-b824-52fb3f4aa215"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102021183" alt="Advanced MySQL Data Analysis" height="100"/></a> 
+  <a href="https://certificates.mavenanalytics.io/5d0fb126-da52-4b8f-a92b-77817a53451b"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/134631208" alt="Python Foundations for Data Analysis" height="100"/></a> 
 </div>
 
 <div align="center">
   <a href="https://skillshop.credential.net/1d723be1-6dff-454c-a5dd-f12e2d6d408e"><img src="/assets/Google Analytics Certified.png" alt="Google Analytics Certified badge" height="100"/></a> 
+</div>
+
+<div align="center">
+  <img src="/assets/Data Analytics - CoderHouse v2.png" alt="CoderHouse Certification" height="150"/>
 </div>
 
 ____________________
@@ -55,11 +54,10 @@ ____________________
 
 <div align="center">
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=plastic&logo=Databricks&logoColor=white" alt="Databricks badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=fff" alt="Python badge"/>
   
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" alt="Power BI badge"/>
   <img src="https://img.shields.io/badge/SQL-darkblue?style=plastic&logo=sql&logoColor=white" alt="SQL badge"/>
-
-  <img src="https://img.shields.io/badge/Webflow-blue.svg?style=plastic&logo=webflow-css&logoColor=white" alt="Webflow badge"/>
   
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5 badge"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3 badge"/>
