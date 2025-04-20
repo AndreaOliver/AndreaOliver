@@ -24,12 +24,13 @@ ____________________
 <!-- Data Analysis Badges -->
 <h2 align="center"> Data Analytics Engineer Badges </h2>
 
+<!-- Databricks Badges -->
 <div align="center">
   <a href="https://credentials.databricks.com/1b1444d2-2968-46d1-b25d-3d07241b9a61"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/118498110" alt="Databricks Certified Data Analyst Associate badge" height="200"/></a> 
-  <a href="https://credentials.databricks.com/45c545eb-a7b7-4642-9d9e-1914cf192e06"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/115112583" alt="Databricks Fundamentals badge" height="200"/></a>   
-  <a href="https://credentials.databricks.com/a01dda66-985d-4ece-953e-a91135bddb67"><img src="https://templates.images.credential.net/17103474533016668542303149801447.png" alt="Databricks Fundamentals badge" height="200"/></a>     
+  <a href="https://credentials.databricks.com/a01dda66-985d-4ece-953e-a91135bddb67"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/135405250" alt="Advantages of Data & AI Governance badge" height="200"/></a>     
 </div>
 
+<!-- Maven Badges -->
 <div align="center">
   <a href="https://certificates.mavenanalytics.io/ffa9bee6-7761-4f13-9ac1-0d4e06608fab"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87325450" alt="Thinking like an Analyst badge" height="100"/></a> 
   <a href="https://certificates.mavenanalytics.io/b9a7f09f-b0bb-4f10-8524-e35c67d51d9a"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/100007377" alt="Data Literacy Foundations badge" height="100"/></a> 
