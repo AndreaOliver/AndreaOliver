@@ -26,9 +26,8 @@ ____________________
 
 <div align="center">
   <a href="https://credentials.databricks.com/1b1444d2-2968-46d1-b25d-3d07241b9a61"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/118498110" alt="Databricks Certified Data Analyst Associate badge" height="200"/></a> 
-  <a href="https://credentials.databricks.com/45c545eb-a7b7-4642-9d9e-1914cf192e06"><img src="1https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/15112583" alt="Databricks Fundamentals badge" height="200"/></a>   
-  <a href="https://credentials.databricks.com/a01dda66-985d-4ece-953e-a91135bddb67"><img src="https://templates.images.credential.net/17103474533016668542303149801447.png" alt="Databricks Fundamentals badge" height="200"/></a>   
-  
+  <a href="https://credentials.databricks.com/45c545eb-a7b7-4642-9d9e-1914cf192e06"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/115112583" alt="Databricks Fundamentals badge" height="200"/></a>   
+  <a href="https://credentials.databricks.com/a01dda66-985d-4ece-953e-a91135bddb67"><img src="https://templates.images.credential.net/17103474533016668542303149801447.png" alt="Databricks Fundamentals badge" height="200"/></a>     
 </div>
 
 <div align="center">
