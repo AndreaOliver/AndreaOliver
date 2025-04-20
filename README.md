@@ -4,11 +4,11 @@
 <h2 align="center"> About Me <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" alt="girl typing on computer" width="50"/> </h2>
 
 <p>
-As an Accountant and Analyst Engineer, I combine a strong financial background with advanced technical skills, focusing on extracting valuable insights to strengthen business intelligence and optimize internal processes.
+As an Analyst Engineer and Accountant, I combine a strong financial background with advanced technical skills. I focus on extracting valuable insights to strengthen business intelligence and optimize internal processes.
 
 In my current role, I use tools such as Snowflake, DBT, Airflow, Databricks, and Power BI to implement efficient ETL processes and create clear, actionable data visualizations. Additionally, I work with Microsoft Azure, Docker, SQL, and Python to develop scalable, data-driven solutions.
   
-I enjoy teamwork and adding value to generate a positive impact on society. I really believe that's the real goal in life... to do our best to improve every day in every aspect we can and that will reflect on everybody and everything around us.
+I enjoy teamwork and adding value to generate a positive impact on society. That's the real goal in life... to do our best to improve every day in every aspect we can and that will reflect on everybody and everything around us.
   
   Andy.
 </p>
@@ -26,7 +26,9 @@ ____________________
 
 <div align="center">
   <a href="https://credentials.databricks.com/1b1444d2-2968-46d1-b25d-3d07241b9a61"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/118498110" alt="Databricks Certified Data Analyst Associate badge" height="200"/></a> 
-  <a href="https://credentials.databricks.com/45c545eb-a7b7-4642-9d9e-1914cf192e06"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/115112583" alt="Databricks Fundamentals badge" height="200"/></a>   
+  <a href="https://credentials.databricks.com/45c545eb-a7b7-4642-9d9e-1914cf192e06"><img src="1https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/15112583" alt="Databricks Fundamentals badge" height="200"/></a>   
+  <a href="https://credentials.databricks.com/a01dda66-985d-4ece-953e-a91135bddb67"><img src="https://templates.images.credential.net/17103474533016668542303149801447.png" alt="Databricks Fundamentals badge" height="200"/></a>   
+  
 </div>
 
 <div align="center">
@@ -37,6 +39,7 @@ ____________________
   <a href="https://certificates.mavenanalytics.io/ebd338bf-5fe1-4c9c-a004-0eb61bfe5740"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/93159591" alt="MySQL Data Analysis" height="100"/></a> 
   <a href="https://certificates.mavenanalytics.io/9b4bb542-0fdf-4955-b824-52fb3f4aa215"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/102021183" alt="Advanced MySQL Data Analysis" height="100"/></a> 
   <a href="https://certificates.mavenanalytics.io/5d0fb126-da52-4b8f-a92b-77817a53451b"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/134631208" alt="Python Foundations for Data Analysis" height="100"/></a> 
+  <a href="https://certificates.mavenanalytics.io/2b6cd221-b8d0-47b0-b69e-ced8ff709408"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/140464084" alt="Data Analysis with Python & Pandas" height="100"/></a> 
 </div>
 
 <div align="center">
