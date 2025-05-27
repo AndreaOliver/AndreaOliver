@@ -6,7 +6,7 @@
 <p>
 As an Analyst Engineer and Accountant, I combine a strong financial background with advanced technical skills. I focus on extracting valuable insights to strengthen business intelligence and optimize internal processes.
 
-In my current role, I use tools such as Snowflake, DBT, Airflow, Databricks, and Power BI to implement efficient ETL processes and create clear, actionable data visualizations. Additionally, I work with Microsoft Azure, Docker, SQL, and Python to develop scalable, data-driven solutions.
+In my current role, I use tools such as Databricks, Snowflake, DBT, Airflow, and Power BI to implement efficient ETL processes and create clear, actionable data visualizations. Additionally, I work with Microsoft Azure, Docker, SQL, and Python to develop scalable, data-driven solutions.
   
 I enjoy teamwork and adding value to generate a positive impact on society. That's the real goal in life... to do our best to improve every day in every aspect we can and that will reflect on everybody and everything around us.
   
@@ -26,6 +26,7 @@ ____________________
 
 <!-- Databricks Badges -->
 <div align="center">
+  <a href="https://credentials.databricks.com/c4aaa904-8da1-43cd-9c20-e8ae601036e9"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/144724483" alt="Databricks Certified Data Analyst Associate badge" height="200"/></a>   
   <a href="https://credentials.databricks.com/1b1444d2-2968-46d1-b25d-3d07241b9a61"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/118498110" alt="Databricks Certified Data Analyst Associate badge" height="200"/></a> 
   <a href="https://credentials.databricks.com/a01dda66-985d-4ece-953e-a91135bddb67"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/135405250" alt="Advantages of Data & AI Governance badge" height="200"/></a>     
 </div>
