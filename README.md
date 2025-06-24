@@ -26,9 +26,13 @@ ____________________
 
 <!-- Databricks Badges -->
 <div align="center">
+  <a href="https://credentials.databricks.com/44a4b339-c649-48f0-be2f-ca91d9d6946e"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/152913553" alt="Databricks Certified Data Analyst Professional badge" height="200"/></a>   
   <a href="https://credentials.databricks.com/c4aaa904-8da1-43cd-9c20-e8ae601036e9"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/144724483" alt="Databricks Certified Data Analyst Associate badge" height="200"/></a>   
   <a href="https://credentials.databricks.com/1b1444d2-2968-46d1-b25d-3d07241b9a61"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/118498110" alt="Databricks Certified Data Analyst Associate badge" height="200"/></a> 
-  <a href="https://credentials.databricks.com/a01dda66-985d-4ece-953e-a91135bddb67"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/135405250" alt="Advantages of Data & AI Governance badge" height="200"/></a>     
+</div>
+<div align="center">
+  <a href="https://credentials.databricks.com/45c545eb-a7b7-4642-9d9e-1914cf192e06"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/115112583" alt="Databricks Fundamentals badge" height="200"/></a>
+  <a href="https://credentials.databricks.com/a01dda66-985d-4ece-953e-a91135bddb67"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/135405250" alt="Advantages of Data & AI Governance badge" height="200"/></a>
 </div>
 
 <!-- Maven Badges -->
