@@ -1,4 +1,5 @@
-<h1 align="center"> Hi! I'm Andy <img src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" alt="alien waving hi" width="50"/> Welcome to my profile! </h1>
+<h1 align="center">Senior Analytics / Data Engineer</h1>
+<p align="center">Building scalable data platforms and data products</p>
 
 <!--- About Me -->
 <h2 align="center"> About Me <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" alt="girl typing on computer" width="50"/> </h2>
@@ -11,11 +12,17 @@ Experienced in Azure, Databricks, dbt, and Airflow, with a strong focus on data 
 I bring a unique combination of technical expertise and a background in accounting, allowing me to bridge the gap between data and business, and to deliver solutions aligned with financial and operational goals.
 
 I have a strong interest in building data products and contributing to environments where data is treated as a strategic asset, driving measurable business impact.
-
-I value teamwork and strive to generate a positive impact through my work. I believe that doing our best to improve every day — both personally and professionally — reflects positively on everything and everyone around us.
-
-Andy.
 </p>
+
+<!--- Key Focus -->
+<h2 align="center">Key Focus</h2>
+
+<ul>
+  <li>Data platform design (Azure, Databricks)</li>
+  <li>Data modeling for analytics</li>
+  <li>Data quality & governance</li>
+  <li>Data pipelines (ETL/ELT)</li>
+</ul>
 
 <!--- Social Media Links -->
 <p align="center">
