@@ -2,7 +2,7 @@
 <p align="center">Building scalable data platforms and data products</p>
 
 <!--- About Me -->
-<h2 align="center"> About Me <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" alt="girl typing on computer" width="50"/> </h2>
+<h2 align="center"> About Me </h2>
 
 <p>
 Senior Analytics/Data Engineer specializing in designing scalable data platforms and building high-quality data models that enable strategic, data-driven decision-making at scale.
@@ -62,10 +62,6 @@ ____________________
   <a href="https://skillshop.credential.net/1d723be1-6dff-454c-a5dd-f12e2d6d408e"><img src="/assets/Google Analytics Certified.png" alt="Google Analytics Certified badge" height="100"/></a> 
 </div>
 
-<div align="center">
-  <img src="/assets/Data Analytics - CoderHouse v2.png" alt="CoderHouse Certification" height="150"/>
-</div>
-
 ____________________
 
 <!--- Technology Stack -->
@@ -77,10 +73,6 @@ ____________________
   
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" alt="Power BI badge"/>
   <img src="https://img.shields.io/badge/SQL-darkblue?style=plastic&logo=sql&logoColor=white" alt="SQL badge"/>
-  
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5 badge"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3 badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript badge"/>
   
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git badge"/>
   
