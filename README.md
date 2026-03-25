@@ -14,7 +14,13 @@ I bring a unique combination of technical expertise and a background in accounti
 I have a strong interest in building data products and contributing to environments where data is treated as a strategic asset, driving measurable business impact.
 </p>
 
-<!--- Key Focus -->
+<!--- Social Media Links -->
+<p>
+  <a href="https://github.com/AndreaOliver"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub link" height="20"/></a> 
+  <a href="https://www.linkedin.com/in/andrea--oliver"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn link" height="20"/></a>
+</p>  
+
+<!--- Key Focus & Care -->
 <h2 align="center">Key Focus</h2>
 
 <ul>
@@ -24,11 +30,13 @@ I have a strong interest in building data products and contributing to environme
   <li>Data pipelines (ETL/ELT)</li>
 </ul>
 
-<!--- Social Media Links -->
-<p align="center">
-  <a href="https://github.com/AndreaOliver"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub link" height="20"/></a> 
-  <a href="https://www.linkedin.com/in/andrea--oliver"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn link" height="20"/></a>
-</p>  
+<h2 align="center">What I care about</h2>
+
+<ul>
+  <li>Data as a product</li>
+  <li>Reliable and scalable data platforms</li>
+  <li>Aligning data solutions with business impact</li>
+</ul>
 
 ____________________
 
@@ -60,22 +68,6 @@ ____________________
 
 <div align="center">
   <a href="https://skillshop.credential.net/1d723be1-6dff-454c-a5dd-f12e2d6d408e"><img src="/assets/Google Analytics Certified.png" alt="Google Analytics Certified badge" height="100"/></a> 
-</div>
-
-____________________
-
-<!--- Technology Stack -->
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="girl typing on computer" width="50"/></h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=plastic&logo=Databricks&logoColor=white" alt="Databricks badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=fff" alt="Python badge"/>
-  
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" alt="Power BI badge"/>
-  <img src="https://img.shields.io/badge/SQL-darkblue?style=plastic&logo=sql&logoColor=white" alt="SQL badge"/>
-  
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git badge"/>
-  
 </div>
 
 ____________________
