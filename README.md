@@ -4,9 +4,13 @@
 <h2 align="center"> About Me <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" alt="girl typing on computer" width="50"/> </h2>
 
 <p>
-As an Analytics Engineer and Accountant, I combine financial expertise with strong technical skills to deliver scalable, data-driven solutions that support business intelligence and process optimization.
+Senior Analytics/Data Engineer specializing in designing scalable data platforms and building high-quality data models that enable strategic, data-driven decision-making at scale.
 
-In my current role, I utilize tools such as Databricks, Snowflake, DBT, Airflow, and Power BI to design and implement efficient ETL pipelines, as well as build insightful and actionable data visualizations. I also leverage Python and SQL daily, and have experience with cloud platforms such as Microsoft Azure and AWS. My work integrates CI/CD practices, Docker, and principles of Data Governance to ensure reliable, secure, and compliant data environments.
+Experienced in Azure, Databricks, dbt, and Airflow, with a strong focus on data reliability, governance, and performance optimization. Currently working at BASF, delivering global data solutions for the agricultural business.
+
+I bring a unique combination of technical expertise and a background in accounting, allowing me to bridge the gap between data and business, and to deliver solutions aligned with financial and operational goals.
+
+I have a strong interest in building data products and contributing to environments where data is treated as a strategic asset, driving measurable business impact.
 
 I value teamwork and strive to generate a positive impact through my work. I believe that doing our best to improve every day — both personally and professionally — reflects positively on everything and everyone around us.
 
